@@ -1,43 +1,43 @@
-# Xi Wang｜数据与产品分析
+<a id="中文"></a>
 
-[English](README.en.md) · **简体中文** · [作品集网站](https://xiwang-geo.github.io/) · [联系邮箱](mailto:xiwang.geo@outlook.com)
+<p align="center"><img src="assets/earth-academic.svg" width="100%" alt="王曦：统计学与地学。以亚洲为中心的地球、经纬网与等值线风格背景。" /></p>
 
-![Xi Wang 数据分析作品集](assets/banner.svg)
+<p align="center"><a href="#中文">中文</a> · <a href="#english">English</a> · <a href="mailto:xiwang.geo@outlook.com">联系我</a></p>
 
 ## 关于我
 
-广州大学统计学本科，云南大学资源与环境硕士在读。关注数据分析、金融产品与产品分析，寻求远程实习机会，时区UTC+8。
+我是王曦，统计学本科毕业，目前在云南大学攻读资源与环境硕士。我的研究与学习连接**统计学、地理学与生态学**：从已有观测和公开数据出发，运用统计比较、数值分析与生态模型，研究水文和生态系统中的变化。
 
-我的项目从业务问题出发，通过来源核查、指标定义、SQL/Python计算和可复算材料，把观察结果转成有边界的建议。
+我也关注定量方法在金融与商业问题中的应用，希望把研究中的数据核查、模型比较和结果解释，带到具体的分析与决策中。
 
-## 精选项目
+## 教育背景
 
-### 沪深300ETF产品比较与基金筛选工具优化
+<table>
+<tr><td width="86" align="center"><a href="https://www.ynu.edu.cn/"><img src="assets/yunnan-university.png" width="64" height="64" alt="云南大学校徽" /></a></td><td><strong>云南大学</strong><br/>资源与环境 · 硕士研究生在读<br/><sub>2026.09—至今</sub></td></tr>
+<tr><td width="86" align="center"><a href="https://www.gzhu.edu.cn/"><img src="assets/guangzhou-university.jpg" width="64" height="64" alt="广州大学红色圆环校徽" /></a></td><td><strong>广州大学</strong><br/>统计学 · 理学学士<br/><sub>2022.09—2026.06</sub></td></tr>
+</table>
 
-![ETF项目](assets/etf-cover.svg)
+## 研究经历与当前方向
 
-比较五只同指数ETF的三个预设窗口，形成15个产品窗口结果。核查分红、费用、共同日期和报价精度，比较收益风险、跟踪表现与交易活跃度，再实现可离线打开的筛选与并列比较工具。
+**水同位素水文学 · 当前研究**  
+围绕降水稳定同位素及其天气背景开展数值分析。整理采样时间、降水与气象资料，通过同一记录上的模型比较、外部检验与不确定性分析，评估不同解释变量提供的信息；目前关注采样前天气能否在采样期间天气之外增加解释能力。
 
-市场比较与原型功能已完成，真实用户效果尚未验证。
+**海洋食物网与生态系统建模 · 既往及延续工作**  
+使用 Ecopath / Ecosim 分析功能群关系、营养流与生态系统动态。研究涉及跨模型功能群映射、通量比较、敏感性分析，以及渔业和环境变化下的动态模拟，关注模型假设如何影响生态解释。
 
-[中文案例](https://xiwang-geo.github.io/case-etf.html) · [英文案例](https://xiwang-geo.github.io/case-etf-en.html) · [项目仓库与复算](https://github.com/xiwang-geo/csi300-etf-analysis)
+## 研究与应用兴趣
 
-### Base链Uniswap单池活动、地址回访与集中度分析
+**金融分析 · 数值分析 · 商业分析 · 生态领域建模**
 
-![Uniswap项目](assets/uniswap-cover.svg)
+常用方法与工具：Python、R、SQL，统计建模、模型检验、时间序列分析、数据可视化，以及 Ecopath / Ecosim。重视可复算的分析过程、明确的指标口径与有依据的结论。
 
-以84天、15,123条交换事件及2,086个交易发起地址为基础，完成活动构成、首次观察地址回访、集中度和两套头部剔除敏感性分析，形成运营监测建议与交互看板。
+## 应用项目
 
-地址不等同真实用户，单池缺席不等同协议流失，算术拆解不等同营销归因。
+<table>
+<tr><td><strong><a href="https://github.com/xiwang-geo/csi300-etf-analysis">沪深300ETF产品比较与基金筛选工具优化</a></strong><br/>比较五只同指数ETF在三个预设窗口中的费用、收益、风险及跟踪表现，并将结果转为产品筛选与比较工具。<br/><sub><a href="https://xiwang-geo.github.io/case-etf.html">案例概览</a> · <a href="https://github.com/xiwang-geo/csi300-etf-analysis">代码与报告</a></sub></td><td width="210"><a href="https://github.com/xiwang-geo/csi300-etf-analysis"><img src="assets/etf-overview.png" width="200" alt="ETF筛选与比较工具概览" /></a></td></tr>
+<tr><td><strong><a href="https://github.com/xiwang-geo/uniswap-base-analysis">Base链Uniswap单池活动、地址回访与集中度分析</a></strong><br/>基于真实链上事件构建活动趋势、首次观察队列与集中度分析；研究范围限定为单池，地址作为参与者代理。<br/><sub><a href="https://xiwang-geo.github.io/case-uniswap.html">案例概览</a> · <a href="https://github.com/xiwang-geo/uniswap-base-analysis">代码与报告</a></sub></td><td width="210"><a href="https://github.com/xiwang-geo/uniswap-base-analysis"><img src="assets/uniswap-overview.png" width="200" alt="Uniswap活动趋势分析概览" /></a></td></tr>
+</table>
 
-[中文案例](https://xiwang-geo.github.io/case-uniswap.html) · [英文案例](https://xiwang-geo.github.io/case-uniswap-en.html) · [项目仓库与复算](https://github.com/xiwang-geo/uniswap-base-analysis)
+联系：[xiwang.geo@outlook.com](mailto:xiwang.geo@outlook.com) · 时区 UTC+8
 
-## 项目工具与方法
-
-SQL、Python、SQLite、数据质量核查、队列分析、金融产品比较、产品评估设计。
-
-两个案例均提供报告、交互工具、SQL、数据与可复算文件。原报告与工具使用中文，案例网页与项目说明提供中英文版本。
-
-## 联系
-
-[xiwang.geo@outlook.com](mailto:xiwang.geo@outlook.com) · UTC+8
+[English](README.en.md)
