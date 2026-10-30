@@ -1,6 +1,6 @@
 <a id="中文"></a>
 
-<p align="center"><img src="assets/earth-cartoon-red-panda.png" width="100%" alt="你好，我叫王曦！ Hi, I'm Xi Wang。卡通地球、小熊猫与水獭。" /></p>
+<p align="center"><img src="assets/earth-cartoon-english.png" width="100%" alt="Hi, I'm Xi Wang. Cartoon Earth, red panda and river otter." /></p>
 
 <p align="center"><a href="#中文">中文</a> · <a href="#english">English</a> · <a href="mailto:xiwang.geo@outlook.com">联系我</a></p>
 
@@ -41,4 +41,5 @@
 联系：[xiwang.geo@outlook.com](mailto:xiwang.geo@outlook.com) · 时区 UTC+8
 
 [English](README.en.md)
+
 
