@@ -6,3 +6,5 @@
 - Project overview images: original figures from the two linked analysis repositories. English section retains original Chinese figures, identified in alt text.
 
 University emblems identify educational affiliations. They do not imply endorsement. Research descriptions summarise ongoing or prior work, without asserting publication, peer review or causal findings.
+
+- Current profile banner (`earth-cartoon-banner.png`): original custom cartoon illustration with the bilingual greeting, created for this profile. The previous Earth-science vector banner is retained as an unused asset.

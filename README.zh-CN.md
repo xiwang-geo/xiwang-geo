@@ -1,6 +1,6 @@
 <a id="中文"></a>
 
-<p align="center"><img src="assets/earth-academic.svg" width="100%" alt="王曦：统计学与地学。以亚洲为中心的地球、经纬网与等值线风格背景。" /></p>
+<p align="center"><img src="assets/earth-cartoon-banner.png" width="100%" alt="你好，我叫王曦！ Hi, I'm Xi Wang。卡通地球、猫头鹰与水獭。" /></p>
 
 <p align="center"><a href="#中文">中文</a> · <a href="#english">English</a> · <a href="mailto:xiwang.geo@outlook.com">联系我</a></p>
 
